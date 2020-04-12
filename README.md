@@ -7,4 +7,4 @@ Utilized:
 HTML
 CSS
 JavaScript
-, jQuery, MySQL, Node.js, Express.js, Handlebars, ORM, MVC
+jQuery, MySQL, Node.js, Express.js, Handlebars, ORM, MVC
