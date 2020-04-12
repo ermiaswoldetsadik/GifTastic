@@ -7,4 +7,6 @@ Utilized:
 - HTML
 - CSS
 - JavaScript
-jQuery
+- jQuery
+
+<img src="assets\images\giphy.PNG" width="400" height="400">
