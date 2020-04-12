@@ -10,4 +10,5 @@ Utilized:
 - JavaScript
 - jQuery
 
+
 <img src="assets\images\giphy.PNG" width="800" height="400">
