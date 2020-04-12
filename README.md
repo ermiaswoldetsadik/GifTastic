@@ -8,4 +8,5 @@ HTML
 CSS
 JavaScript
 jQuery
-MySQL, Node.js, Express.js, Handlebars, ORM, MVC
+MySQL
+Node.js, Express.js, Handlebars, ORM, MVC
