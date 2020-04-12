@@ -5,6 +5,6 @@ GifTastic is a web application that uses API to call out different giphy images 
 
 Utilized:
 - HTML
-CSS
+- CSS
 JavaScript
 jQuery
